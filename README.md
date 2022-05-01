@@ -14,7 +14,7 @@
 ### Education  
 #### ✅ 데이터청년캠퍼스 Data Youth Campus
 - Completion of training courses for industry-specific data professionals
-- at Korea Data Agency & Seoul Women's Univ
+at Korea Data Agency & Seoul Women's Univ
 
 #### ✅ 멋쟁이사자처럼 LIKELION AI School 5th 
 - K-Digital Training
