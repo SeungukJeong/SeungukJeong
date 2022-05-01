@@ -1,17 +1,15 @@
-## 정승욱 Seunguk Jeong / Seungwook Jung 👋
+# 정승욱 Seunguk Jeong / Seungwook Jung 👋
 
-### Projects
+## Projects
 #### ✅ Data Analyst Intern at WISELY
 - Optimized customer cohort's repurchase rate prediction model with curve-fitting method  
 (Jul.26.2021 - Sep.01.2021) 
 
 #### ✅ Research Assistant at ai.m 
 - NIA AI Index 2021   
-(Nov.05.2021 - Jan.31.2022)
+(Nov.05.2021 - Jan.31.2022) 
 
----   
-
-### Education  
+## Education  
 #### ✅ 데이터청년캠퍼스 Data Youth Campus
 - Completion of training courses for industry-specific data professionals  
 at Korea Data Agency & Seoul Women's Univ  
