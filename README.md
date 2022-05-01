@@ -1,4 +1,4 @@
-# 정승욱 Seunguk Jeong / Seungwook Jung 👋
+# 정승욱 Seunguk 👋
 
 ## Projects
 #### ✅ Data Analyst Intern at WISELY
