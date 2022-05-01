@@ -9,6 +9,8 @@
 - NIA AI Index 2021   
 (Nov.05.2021 - Jan.31.2022)
 
+---   
+
 ### Education  
 #### 데이터청년캠퍼스 Data Youth Campus, Korea Data Agency
 - Completion of training courses for industry-specific data professionals
@@ -17,6 +19,14 @@
 #### 멋쟁이사자처럼 LIKELION AI School 5th 
 - K-Digital Training
 (Mar.17.2022 - Jun.03.2022)
+
+#### CUAI
+- Academic Seminar Club, Chung-ang University Artificial Intelligence
+
+## Interest
+- Statistics
+- Data Analysis
+- Machine Learning  
 
 <!--
 **SeungukJeong/SeungukJeong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
