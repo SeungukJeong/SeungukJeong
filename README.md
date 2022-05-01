@@ -2,11 +2,11 @@
 
 ### Projects
 #### Data Analyst Intern at WISELY
-- Optimized customer cohort's repurchase rate prediction model with curve-fitting method
+- Optimized customer cohort's repurchase rate prediction model with curve-fitting method  
 (Jul.26.2021 - Sep.01.2021) 
 
 #### Research Assistant at ai.m 
-- NIA AI Index 2021 
+- NIA AI Index 2021   
 (Nov.05.2021 - Jan.31.2022)
 
 
