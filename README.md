@@ -3,21 +3,21 @@
 ## Projects
 #### ✅ Data Analyst Intern at WISELY
 - Optimized customer cohort's repurchase rate prediction model with curve-fitting method  
-(Jul.26.2021 - Sep.01.2021) 
+(Jul 26 2021 - Sep 01 2021) 
 
 #### ✅ Research Assistant at ai.m 
 - NIA AI Index 2021   
-(Nov.05.2021 - Jan.31.2022) 
+(Nov 05 2021 - Jan 31 2022) 
 
 ## Education  
 #### ✅ 데이터청년캠퍼스 Data Youth Campus
 - Completion of training courses for industry-specific data professionals  
 at Korea Data Agency & Seoul Women's Univ  
-(Jun.28.2021 - Jul.22.2021)
+(Jun 28 2021 - Jul 22 2021)
 
 #### ✅ 멋쟁이사자처럼 LIKELION AI School 5th 
 - K-Digital Training
-(Mar.17.2022 - Jun.03.2022)
+(Mar 17 2022 - Jun 03 2022)
 
 #### ✅ CUAI
 - Academic Seminar Club, Chung-ang University Artificial Intelligence
