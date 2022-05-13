@@ -18,7 +18,7 @@
 - K-Digital Training  
 (Mar 17 2022 - Jun 03 2022)
 
-#### ✅ [CUAI](https://github.com/SeungukJeong/CUAI_HandsOn-ML-Study-T1_2022)
+#### ✅ [CUAI](https://github.com/SeungukJeong/CUAI_seunguk)
 - Academic Seminar Club, Chung-ang University Artificial Intelligence  
 (Mar 02 2021 - Present)
 
