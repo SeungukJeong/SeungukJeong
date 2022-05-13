@@ -20,7 +20,7 @@
 
 #### ✅ CUAI
 - Academic Seminar Club, Chung-ang University Artificial Intelligence  
-(Mar 02 2021 - )
+(Mar 02 2021 - Present)
 
 <!--
 **SeungukJeong/SeungukJeong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
