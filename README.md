@@ -14,7 +14,7 @@
 - Seoul Women's Univ.  
 (Jun 28 2021 - Jul 22 2021)
 
-#### ✅ 멋쟁이사자처럼 LIKELION AI School 5th 
+#### ✅ [멋쟁이사자처럼 LIKELION AI School 5th](https://github.com/SeungukJeong/LIKELION_AI_SCHOOL_5th)
 - K-Digital Training  
 (Mar 17 2022 - Jun 03 2022)
 
