@@ -1,7 +1,7 @@
 # 정승욱 Seunguk 👋
 
 ## Projects
-#### ✅ Data Analyst Intern at WISELY
+#### ✅ [Data Analyst Intern at WISELY](https://seunguk0214.notion.site/DataCampus-Wisely-21-07-21-08-8484979e2fbb4b59af4e21c2b8d40c72)
 - Optimized customer cohort's repurchase rate prediction model with curve-fitting method    
 (Jul 26 2021 - Sep 01 2021)   
 
@@ -18,7 +18,7 @@
 - K-Digital Training  
 (Mar 17 2022 - Jun 03 2022)
 
-#### ✅ CUAI
+#### ✅ [CUAI](https://github.com/SeungukJeong/CUAI_HandsOn-ML-Study-T1_2022)
 - Academic Seminar Club, Chung-ang University Artificial Intelligence  
 (Mar 02 2021 - Present)
 
