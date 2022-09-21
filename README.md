@@ -12,7 +12,7 @@
 #### ✅ Presales Intern @ SAP.  <br>
 (Jul 04 2022 - Current) <br>
 - SAP Korea STAR Internship (Student Training and Rotation) <br> 
-- APJ Mid Market Presales
+- APJ Mid Market Presales KOR
 
 **E** seunguk.jung@sap.com 
 
