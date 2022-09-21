@@ -1,13 +1,20 @@
 # 정승욱 Seunguk 👋
 
-## Projects
-#### ✅ [Data Analyst Intern at WISELY](https://seunguk0214.notion.site/DataCampus-Wisely-21-07-21-08-8484979e2fbb4b59af4e21c2b8d40c72)
+## Intern <br>
+#### ✅ [Data Analyst Intern @ WISELY COMPANY](https://seunguk0214.notion.site/DataCampus-Wisely-21-07-21-08-8484979e2fbb4b59af4e21c2b8d40c72)
 - Optimized customer cohort's repurchase rate prediction model with curve-fitting method    
 (Jul 26 2021 - Sep 01 2021)   
 
-#### ✅ Research Assistant at ai.m 
+#### ✅ Research Assistant @ ai.m Inc. 
 - NIA AI Index 2021     
-(Nov 05 2021 - Jan 31 2022) 
+(Nov 05 2021 - Jan 31 2022)   
+
+#### ✅ Presales Intern @ SAP.  <br>
+(Jul 04 2022 - Current) <br>
+- SAP Korea STAR Internship (Student Training and Rotation) <br> 
+- APJ Mid Market Presales
+
+**E** seunguk.jung@sap.com 
 
 ## Education  
 #### ✅ 데이터청년캠퍼스 Data Youth Campus 
