@@ -9,13 +9,13 @@
 - NIA AI Index 2021     
 (Nov 05 2021 - Jan 31 2022)   
 
-#### ✅ Presales Intern @ SAP.  <br>
+#### ✅ Presales Intern @ SAP  <br>
 
 - SAP Korea STAR Internship (Student Training and Rotation) <br> 
-- APJ Mid Market Presales KOR    
+- APJ Midmarket Presales KOR KR  <br>  
 (Jul 04 2022 - Current) <br>
 
-**E** seunguk.jung@sap.com 
+**E** | seunguk.jung@sap.com 
 
 ## Education  
 #### ✅ 데이터청년캠퍼스 Data Youth Campus 
